@@ -31,7 +31,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b
 	golang.org/x/mod v0.3.0
 	golang.org/x/net v0.0.0-20210326060303-6b1517762897
-	golang.org/x/sys v0.0.0-20210817190340-bfb29a6856f2
+	golang.org/x/sys v0.1.0
 	google.golang.org/grpc v1.29.1
 	gopkg.in/yaml.v2 v2.4.0
 	pgregory.net/rapid v0.4.7
